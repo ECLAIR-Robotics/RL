@@ -50,7 +50,7 @@ You will only need to edit `agents.py` for this task. Specifically, the function
 `compute_td_loss` which calculates the loss. If you want to change up other
 things, feel free to send a message in the Discord chat!
 
-To run the DQN, run the command `python run.py.` You can change the some hyperparameters by altering some flags if you want. You can read `run.py` to see all the flags. 
+To run the DQN, run the command `python run.py.` You can change hyperparameters by altering some flags if you want. You can read `run.py` to see all the flags. 
 
 
 ## References
